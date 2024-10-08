@@ -1,1 +1,1 @@
-this for python basics
+this's for python basics
